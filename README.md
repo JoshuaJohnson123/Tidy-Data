@@ -1,8 +1,11 @@
 This repository is created for the purpose of presenting results of final project of Getting and Cleaning Data course offered through Coursera. This repository contains the following files;
 
 •	run_analysis.R : The R script for the project.
+
 •	TidyFinalData.txt : The final tidy dataset, ie final output of the project.
+
 •	Codebook.txt : The code book describing the variables and the steps taken in the process of transforming raw data into final output.
+
 
 The raw data comes from a Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
 
