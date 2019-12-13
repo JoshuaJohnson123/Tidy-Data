@@ -1,8 +1,8 @@
 This repository is created for the purpose of presenting results of final project of Getting and Cleaning Data course offered through Coursera. This repository contains the following files;
 
-•	run_analysis.R : The R script for the project.
+•	Final_assignment_Script.R : The R script for the project.
 
-•	TidyFinalData.txt : The final tidy dataset, ie final output of the project.
+•	FinalData.txt : The final tidy dataset, ie final output of the project.
 
 •	Codebook.txt : The code book describing the variables and the steps taken in the process of transforming raw data into final output.
 
